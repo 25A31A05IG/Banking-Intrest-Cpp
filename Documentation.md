@@ -55,5 +55,23 @@ Enter Time (in years): 3
 Simple Interest = ₹1500
 Total Amount = ₹11500
 
+## Algorithm for Bank Interest Calculation
+Step-1: Start
+Step-2: Declare variables
+P → Principal amount
+R → Rate of interest
+T → Time (in years)
+SI → Simple Interest
+Step-3: Input the Principal amount (P).
+Step-4: Input the Rate of interest (R).
+Step-5: Input the Time period (T).
+Step-6: Calculate the Simple Interest using the formula
+Step-7: Display the Simple Interest (SI).
+Step-8: Stop.
+
+## Flowchart 
+<img width="1024" height="1536" alt="file_000000001998720b9bc616068965e5da" src="https://github.com/user-attachments/assets/8bda68ae-fa91-47be-9832-b0004c96ea81" />
+
+
 ## 10. Conclusion
 This program provides a simple, interactive way to calculate bank interest. It helps beginners understand menu-driven programming, arithmetic operations, and real-life application of programming concepts.
